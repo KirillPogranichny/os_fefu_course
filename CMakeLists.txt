@@ -3,4 +3,4 @@ project(os_fefu_course)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(os_fefu_course main.cpp)
+add_executable(os_fefu_course lab1/hello_world.cpp)
