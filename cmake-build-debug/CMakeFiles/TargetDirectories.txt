@@ -1,0 +1,3 @@
+C:/Study/os-fefu-course/cmake-build-debug/CMakeFiles/os_fefu_course.dir
+C:/Study/os-fefu-course/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Study/os-fefu-course/cmake-build-debug/CMakeFiles/rebuild_cache.dir
