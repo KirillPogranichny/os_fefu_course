@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/os_fefu_course.dir/lab1/hello_world.cpp.o -o os_fefu_course 

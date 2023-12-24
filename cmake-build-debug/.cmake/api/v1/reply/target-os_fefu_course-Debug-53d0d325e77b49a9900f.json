@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "os_fefu_course.exe"
-		},
-		{
-			"path" : "os_fefu_course.pdb"
+			"path" : "os_fefu_course"
 		}
 	],
 	"backtrace" : 1,
@@ -68,16 +65,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "os_fefu_course",
-	"nameOnDisk" : "os_fefu_course.exe",
+	"nameOnDisk" : "os_fefu_course",
 	"paths" : 
 	{
 		"build" : ".",
